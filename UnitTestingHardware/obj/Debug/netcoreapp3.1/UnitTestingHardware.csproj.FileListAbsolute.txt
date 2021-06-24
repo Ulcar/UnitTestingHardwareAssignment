@@ -1,0 +1,13 @@
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\bin\Debug\netcoreapp3.1\UnitTestingHardware.exe
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\bin\Debug\netcoreapp3.1\UnitTestingHardware.deps.json
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\bin\Debug\netcoreapp3.1\UnitTestingHardware.runtimeconfig.json
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\bin\Debug\netcoreapp3.1\UnitTestingHardware.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\bin\Debug\netcoreapp3.1\UnitTestingHardware.dll
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\bin\Debug\netcoreapp3.1\UnitTestingHardware.pdb
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.dll
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.pdb
+C:\Users\Lucas\source\repos\UnitTestingHardware\UnitTestingHardware\obj\Debug\netcoreapp3.1\UnitTestingHardware.genruntimeconfig.cache
